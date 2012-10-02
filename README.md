@@ -17,7 +17,9 @@ Tekstit ovat USFM-formaatissa, jonka manuaali löytyy osoitteesta
 http://paratext.org/about/usfm.  Helpoiten muokkaus sujuu
 yksinkertaisella tekstieditorilla, mutta muokkaamiseen soveltuu myös
 ilmainen Bibledit-ohjelma osoitteesta
-https://sites.google.com/site/bibledit/.
+https://sites.google.com/site/bibledit/.  Bibleditillä ei välttämättä
+kannata avata kuin yksi kirja kerrallaan, mutta sillä on mahdollista
+esimerkiksi pulauttaa ulos PDF-muodossa.
 
 USFM-formaatin tekstit voi muuntaa yleisempään OSIS-formaattiin komennolla:
 
